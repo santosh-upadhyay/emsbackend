@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b4eb81d-e318-4522-9f98-d5df125fb34d)Register User
+Register User
 /api/auth/register (POST)- Register a new user
 
 Login User
